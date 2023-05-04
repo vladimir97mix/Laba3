@@ -16,7 +16,7 @@ namespace WinFormsAppLabTest
         {
             InitializeComponent();
 
-            checkDoctorData("myname_doctor", "doctorSuperBest123!", "doctorSuperBest123!");
+            controller = ManageClass.GetDatabaseController();
         }
 
         public static class ExceptionStrings
@@ -28,7 +28,7 @@ namespace WinFormsAppLabTest
             public const string SameLoginPassword = "Логин и пароль не могут совпадать.";
             public const string PasswordLess10Chars = "Пароль не может быть менее 10 символов.";
             public const string PasswordNoNumber = "Пароль должен содержать хотя бы один символ цифры.";
-            public const string PasswordNoExtraChar = "Пароль должен содержать хотя бы один символ из @#$%^&*! .";
+            public const string PasswordNoExtraChar = "Пароль должен содержать хотя бы один символ из @#$%^&&*! .";
             public const string PasswordNoUpperChar = "Пароль должен содержать хотя бы один символ в верхнем регистре.";
             public const string LoginForbidden = "Логин должен состоять только из цифр, букв и символа _.";
 
@@ -108,7 +108,6 @@ namespace WinFormsAppLabTest
             }
 
             regex = new System.Text.RegularExpressions.Regex(@"[@#$%^&*!]");
-
             if (!regex.IsMatch(password))
             {
                 throw new Exception(ExceptionStrings.PasswordNoExtraChar);
@@ -130,6 +129,31 @@ namespace WinFormsAppLabTest
 
             return true;
         }
+
+
+        private void RegisterButton_Click_1(object sender, EventArgs e)
+        {
+            ErrorLabel.Text = "";
+
+            try
+            {
+                string login = LoginTextBox.Text;
+                string password = PasswordTextBox.Text;
+                string repPassword = RepPasswordTextBox.Text;
+                IDoctorEntry doctor = onRegisterClick(login, password, repPassword);
+
+                ErrorLabel.Text = "Пользователь " + doctor.Login + " зарегистрирован!";
+                if (MessageBox.Show("Пользователь " + doctor.Login + " зарегистрирован!", "Внимание!") == DialogResult.OK)
+                {
+                    this.Close();
+                }
+            }
+            catch (Exception exception)
+            {
+                ErrorLabel.Text = exception.Message;
+            }
+        }
     }
 }
+
 

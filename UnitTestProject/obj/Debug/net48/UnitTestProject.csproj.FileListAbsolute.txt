@@ -78,3 +78,5 @@ G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\Un
 G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.CopyComplete
 G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.dll
 G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.pdb
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\FlaUI.UIA3.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\Interop.UIAutomationClient.dll

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PaPxyE50ZNyTCtY0RLKpxkJgMB6tBJOkVcZKl+FVGKwOq54RSaHszRclV/geIb5q/Kezg2qoEQzJHxcfcxfnCA==",
+  "dgSpecHash": "rbpUpa1mNEwkaA5FYQbcO6jaQMzT5jS7HNEwbmRiC3omBjmU0IDRaAZR6wWmaBm1Ip+GMO9XpE8gUMlfmh50aQ==",
   "success": true,
   "projectFilePath": "G:\\study\\ТП\\ProgrammingTechnology\\LabWork02\\UnitTestProject\\UnitTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\flaui.core\\4.0.0\\flaui.core.4.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\flaui.uia3\\4.0.0\\flaui.uia3.4.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\interop.uiautomationclient\\10.19041.0\\interop.uiautomationclient.10.19041.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",

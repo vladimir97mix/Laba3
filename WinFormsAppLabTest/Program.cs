@@ -12,8 +12,15 @@ namespace WinFormsAppLabTest
         /// Главная точка входа для приложения.
         /// </summary>
         [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
+#if DEBUG
+            if (args.Length > 0)
+            {
+                ManageClass.index = Convert.ToInt32(args[0]);
+            }
+#endif
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new RegisterForm());

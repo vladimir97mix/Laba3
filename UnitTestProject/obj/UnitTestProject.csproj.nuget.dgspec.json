@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[4.0.0, )"
             },
+            "FlaUI.UIA3": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.5.0, )"
