@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\study\\ТП\\ProgrammingTechnology\\LabWork02\\UnitTestProject\\UnitTestProject.csproj": {}
+  },
+  "projects": {
+    "G:\\study\\ТП\\ProgrammingTechnology\\LabWork02\\UnitTestProject\\UnitTestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\study\\ТП\\ProgrammingTechnology\\LabWork02\\UnitTestProject\\UnitTestProject.csproj",
+        "projectName": "UnitTestProject",
+        "projectPath": "G:\\study\\ТП\\ProgrammingTechnology\\LabWork02\\UnitTestProject\\UnitTestProject.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "G:\\study\\ТП\\ProgrammingTechnology\\LabWork02\\UnitTestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "G:\\study\\ТП\\ProgrammingTechnology\\LabWork02\\WinFormsAppLabTest\\WinFormsAppLabTest.csproj": {
+                "projectPath": "G:\\study\\ТП\\ProgrammingTechnology\\LabWork02\\WinFormsAppLabTest\\WinFormsAppLabTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "FlaUI.Core": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\study\\ТП\\ProgrammingTechnology\\LabWork02\\WinFormsAppLabTest\\WinFormsAppLabTest.csproj": {
+      "restore": {
+        "projectUniqueName": "G:\\study\\ТП\\ProgrammingTechnology\\LabWork02\\WinFormsAppLabTest\\WinFormsAppLabTest.csproj",
+        "projectName": "WinFormsAppLabTest",
+        "projectPath": "G:\\study\\ТП\\ProgrammingTechnology\\LabWork02\\WinFormsAppLabTest\\WinFormsAppLabTest.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

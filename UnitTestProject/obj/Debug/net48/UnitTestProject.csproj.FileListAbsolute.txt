@@ -1,0 +1,80 @@
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\NUnit3.TestAdapter.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\NUnit3.TestAdapter.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\nunit.engine.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\nunit.engine.api.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\nunit.engine.core.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\testcentric.engine.metadata.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\UnitTestProject.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\UnitTestProject.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\nunit.framework.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\System.Security.AccessControl.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\System.Security.Permissions.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\System.Security.Principal.Windows.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\WinFormsAppLabTest.exe
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\WinFormsAppLabTest.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net48\WinFormsAppLabTest.exe.config
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.AssemblyReference.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net48\UnitTestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net48\UnitTestProject.AssemblyInfoInputs.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net48\UnitTestProject.AssemblyInfo.cs
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.CopyComplete
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net48\UnitTestProject.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net48\UnitTestProject.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\NUnit3.TestAdapter.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\NUnit3.TestAdapter.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\nunit.engine.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\nunit.engine.api.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\nunit.engine.core.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\testcentric.engine.metadata.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\UnitTestProject.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\UnitTestProject.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\nunit.framework.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\System.Security.AccessControl.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\System.Security.Permissions.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\System.Security.Principal.Windows.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\WinFormsAppLabTest.exe
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\WinFormsAppLabTest.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\WinFormsAppLabTest.exe.config
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.AssemblyReference.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.AssemblyInfoInputs.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.AssemblyInfo.cs
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.CopyComplete
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\FlaUI.Core.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\NUnit3.TestAdapter.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\NUnit3.TestAdapter.pdb
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\nunit.engine.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\nunit.engine.api.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\nunit.engine.core.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\testcentric.engine.metadata.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\UnitTestProject.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\UnitTestProject.pdb
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\FlaUI.Core.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\nunit.framework.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\System.Security.AccessControl.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\System.Security.Permissions.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\System.Security.Principal.Windows.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\WinFormsAppLabTest.exe
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\WinFormsAppLabTest.pdb
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\bin\Debug\net48\WinFormsAppLabTest.exe.config
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.AssemblyReference.cache
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.SuggestedBindingRedirects.cache
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.AssemblyInfoInputs.cache
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.AssemblyInfo.cs
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.CoreCompileInputs.cache
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.csproj.CopyComplete
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\UnitTestProject\obj\Debug\net48\UnitTestProject.pdb

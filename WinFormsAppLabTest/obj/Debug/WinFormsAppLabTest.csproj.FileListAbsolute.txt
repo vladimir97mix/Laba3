@@ -1,0 +1,64 @@
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\bin\Debug\WinFormsAppLabTest.exe.config
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\bin\Debug\WinFormsAppLabTest.exe
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\bin\Debug\WinFormsAppLabTest.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.AssemblyReference.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.ClientForm.resources
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.Properties.Resources.resources
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.GenerateResource.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.CoreCompileInputs.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.exe
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\bin\Debug\System.Security.AccessControl.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\bin\Debug\System.Security.Permissions.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\bin\Debug\System.Security.Principal.Windows.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\bin\Debug\System.Security.AccessControl.xml
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\bin\Debug\System.Security.Permissions.xml
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\bin\Debug\System.Security.Principal.Windows.xml
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.CopyComplete
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\WinFormsAppLabTest.exe.config
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\WinFormsAppLabTest.exe
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\WinFormsAppLabTest.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.AccessControl.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.Permissions.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.Principal.Windows.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.AccessControl.xml
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.Permissions.xml
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.Principal.Windows.xml
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.AssemblyReference.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.ClientForm.resources
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.Properties.Resources.resources
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.GenerateResource.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.CoreCompileInputs.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.CopyComplete
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.exe
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\FlaUI.Core.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\FlaUI.Core.xml
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\WinFormsAppLabTest.exe.config
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\WinFormsAppLabTest.exe
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\WinFormsAppLabTest.pdb
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\FlaUI.Core.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.AccessControl.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.Permissions.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.Principal.Windows.dll
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\FlaUI.Core.xml
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.AccessControl.xml
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.Permissions.xml
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\bin\Debug\System.Security.Principal.Windows.xml
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.AssemblyReference.cache
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.SuggestedBindingRedirects.cache
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.RegisterForm.resources
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.Properties.Resources.resources
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.GenerateResource.cache
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.CoreCompileInputs.cache
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.csproj.CopyComplete
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.exe
+G:\study\ТП\ProgrammingTechnology\LabWork02\WinFormsAppLabTest\obj\Debug\WinFormsAppLabTest.pdb

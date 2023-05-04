@@ -1,0 +1,17 @@
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net472\NUnit3.TestAdapter.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net472\NUnit3.TestAdapter.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net472\nunit.engine.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net472\nunit.engine.api.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net472\UnitTestProject.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net472\UnitTestProject.pdb
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\bin\Debug\net472\nunit.framework.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net472\UnitTestProject.csproj.AssemblyReference.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net472\UnitTestProject.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net472\UnitTestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net472\UnitTestProject.AssemblyInfoInputs.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net472\UnitTestProject.AssemblyInfo.cs
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net472\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net472\UnitTestProject.csproj.CopyComplete
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net472\UnitTestProject.dll
+D:\Учеба\28_Технология программирования\_Git\myUniversityPractice\UnitTestProject\obj\Debug\net472\UnitTestProject.pdb
